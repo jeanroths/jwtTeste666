@@ -7,7 +7,7 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/jeanroths/jwtTeste666/auth"
-	"github.com/jeanroths/jetTeste666/handlers"
+	"github.com/jeanroths/jwtTeste666/handlers"
 )
 
 func main() {
